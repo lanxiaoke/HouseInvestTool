@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HouseInvestTool.exe.config
+C:\Users\Administrator\Desktop\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HouseInvestTool.exe
+C:\Users\Administrator\Desktop\test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HouseInvestTool.pdb
+C:\Users\Administrator\Desktop\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\HouseInvestTool.Form1.resources
+C:\Users\Administrator\Desktop\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\HouseInvestTool.Properties.Resources.resources
+C:\Users\Administrator\Desktop\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\HouseInvestTool.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\HouseInvestTool.exe
+C:\Users\Administrator\Desktop\test\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\HouseInvestTool.pdb
